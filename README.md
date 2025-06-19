@@ -64,3 +64,6 @@ Contributions are welcome! If you have suggestions for new features or improveme
 
 📧 Contact
 For questions or feedback, feel free to reach out:
+Kiran Bhardwaj
+Linkedin: linkedin.com/in/kiran-bhardwaj-b34a29317/
+Email : kbhardwaj.me@gmail.com
